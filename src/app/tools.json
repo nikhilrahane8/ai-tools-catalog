@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "category": "General Productivity",
+    "pricing": "Free/Paid",
+    "description": "The industry-standard conversational AI powered by the latest GPT-4o and o1 models. It excels at reasoning, coding assistance, and multimodal interaction across web and mobile.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "website_url": "https://chatgpt.com"
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "category": "General Productivity",
+    "pricing": "Free/Paid",
+    "description": "Anthropic's flagship assistant known for its natural writing style and massive context window. It is highly regarded for complex reasoning and large-scale document analysis.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=128",
+    "website_url": "https://claude.ai"
+  },
+  {
+    "id": 3,
+    "name": "Cursor",
+    "category": "Coding",
+    "pricing": "Free/Paid",
+    "description": "An AI-native code editor built on VS Code that understands your entire codebase. It allows for seamless code generation and refactoring using natural language prompts.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128",
+    "website_url": "https://cursor.com"
+    
+  },
+  {
+    "id": 4,
+    "name": "Midjourney",
+    "category": "Design",
+    "pricing": "Paid",
+    "description": "A top-tier generative AI for creating hyper-realistic and artistic images. It operates via Discord and a web interface, producing high-fidelity visuals for professional creative work.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+     "website_url": "https://midjourney.com"
+  },
+  {
+    "id": 5,
+    "name": "Perplexity AI",
+    "category": "Research",
+    "pricing": "Free/Paid",
+    "description": "An answer engine that provides real-time, sourced information from across the web. It combines search engine accuracy with the conversational ease of a chatbot.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+     "website_url": "https://perplexity.ai"
+  },
+  {
+    "id": 6,
+    "name": "Canva AI",
+    "category": "Design",
+    "pricing": "Free/Paid",
+    "description": "A suite of 'Magic Studio' tools integrated into the popular design platform. It helps users generate layouts, remove backgrounds, and create images through simple text commands.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+     "website_url": "https://canva.com"
+  },
+  {
+    "id": 7,
+    "name": "GitHub Copilot",
+    "category": "Coding",
+    "pricing": "Paid",
+    "description": "An integrated AI pair programmer that provides real-time code completions within your IDE. It is the most widely adopted tool for developers in enterprise environments.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+   "website_url": "https://github.com/features/copilot"
+  },
+  {
+    "id": 8,
+    "name": "ElevenLabs",
+    "category": "Audio",
+    "pricing": "Free/Paid",
+    "description": "A leading AI platform for high-quality voice synthesis and cloning. It can turn text into lifelike speech in dozens of languages with nuanced emotional control.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+    "website_url":"https://elevenlabs.io"
+  },
+  {
+    "id": 9,
+    "name": "Runway",
+    "category": "Video",
+    "pricing": "Free/Paid",
+    "description": "A creative suite for professional video generation and editing using Gen-3 models. It offers tools for text-to-video, image-to-video, and advanced motion brush control.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "website_url":"https://runwayml.com"
+  },
+  {
+    "id": 10,
+    "name": "Notion AI",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "description": "An AI assistant embedded directly into Notion workspaces to help with writing and organizing. It can summarize long notes, draft project plans, and extract action items.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
+    "website_url":"https://notion.so/product/ai"
+  },
+  {
+    "id": 11,
+    "name": "Figma AI",
+    "category": "Design",
+    "pricing": "Free/Paid",
+    "description": "Enhances the UI/UX design workflow by generating editable components and layouts. It helps designers automate repetitive tasks like layer naming and wireframing.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=figma.com&sz=128",
+    "website_url":"https://figma.com"
+  },
+  {
+    "id": 12,
+    "name": "Grammarly",
+    "category": "Writing",
+    "pricing": "Free/Paid",
+    "description": "An AI-powered writing assistant that checks for grammar, tone, and clarity. It integrates into browsers and office suites to ensure professional communication everywhere.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=grammarly.com&sz=128",
+    "website_url":"https://www.grammarly.com"
+  },
+  {
+    "id": 13,
+    "name": "Descript",
+    "category": "Video/Audio",
+    "pricing": "Free/Paid",
+    "description": "An innovative editor that lets you edit video and audio by editing the transcribed text. It features powerful tools like 'Overdub' for voice correction and automated studio sound.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
+    "website_url":"https://get.descript.com"
+  },
+  {
+    "id": 14,
+    "name": "Jasper",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "description": "A specialized AI for marketing teams to create on-brand copy and content. It handles everything from SEO blog posts to social media campaigns at scale.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=128",
+    "website_url":"https://www.jasper.ai"
+  },
+  {
+    "id": 15,
+    "name": "Replit Agent",
+    "category": "Coding",
+    "pricing": "Paid",
+    "description": "An autonomous AI agent that builds and deploys full-stack applications from a single prompt. It manages the environment, dependencies, and code directly in the browser.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=replit.com&sz=128",
+    "website_url":"https://replit.com"
+  },
+  {
+    "id": 16,
+    "name": "Synthesia",
+    "category": "Video",
+    "pricing": "Paid",
+    "description": "Creates professional videos with AI avatars that speak and express naturally. It is primarily used for corporate training, marketing, and localized video content.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=128",
+    "website_url":"https://www.synthesia.io"
+  },
+  {
+    "id": 17,
+    "name": "Zapier Central",
+    "category": "Automation",
+    "pricing": "Free/Paid",
+    "description": "An AI agent workspace that connects your favorite apps through thousands of integrations. It allows you to build custom bots that execute complex cross-platform workflows.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=zapier.com&sz=128",
+    "website_url":"https://zapier.com"
+  },
+  {
+    "id": 18,
+    "name": "Adobe Firefly",
+    "category": "Design",
+    "pricing": "Free/Paid",
+    "description": "A family of generative AI models integrated into Adobe Creative Cloud apps like Photoshop. It enables high-quality generative fill, text-to-vector, and texture generation.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=adobe.com&sz=128",
+    "website_url":"https://firefly.adobe.com"
+  },
+  {
+    "id": 19,
+    "name": "Grok",
+    "category": "Social/Search",
+    "pricing": "Paid",
+    "description": "X’s native AI assistant with real-time access to the platform’s live data stream. It is known for its witty personality and ability to analyze current trends and news.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=x.ai&sz=128",
+    "website_url":"https://grok.com"
+  },
+  {
+    "id": 20,
+    "name": "Gemini",
+    "category": "General Productivity",
+    "pricing": "Free/Paid",
+    "description": "Google’s multimodal AI integrated across the Workspace ecosystem. It features deep integration with Google Search and high-speed processing of text, video, and code.",
+    "logo_url": "https://www.google.com/s2/favicons?domain=google.com&sz=128",
+    "website_url":"https://gemini.google.com"
+  }
+]
